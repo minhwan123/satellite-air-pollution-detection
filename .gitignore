@@ -1,0 +1,16 @@
+# 대용량 원본 산출물 (모델 가중치, 원본 결과 압축본)
+# -> README에 정리된 결과 요약(results/ 폴더, 지표)으로 대체
+*.pth
+*.pt
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

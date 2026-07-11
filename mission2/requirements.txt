@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+timm
+pandas
+numpy
+opencv-python-headless
+albumentations
+tqdm
+matplotlib
+seaborn
+PyYAML
+Pillow

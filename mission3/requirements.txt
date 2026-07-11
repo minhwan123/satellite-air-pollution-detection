@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pillow
+albumentations
+rasterio
+segmentation-models-pytorch
+scikit-learn
+torch
+torchvision
+tqdm
